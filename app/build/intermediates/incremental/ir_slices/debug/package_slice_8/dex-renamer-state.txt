@@ -1,0 +1,4 @@
+#Tue Mar 05 19:29:18 CET 2019
+base.0=/home/users/forestierv/Documents/AndroidFinal/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
